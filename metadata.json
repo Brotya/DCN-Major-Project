@@ -1,0 +1,7 @@
+{
+  "name": "Reliable UDP Transport & App Protocol (L4/L7)",
+  "description": "An interactive transport and application protocol laboratory: custom reliable transport (sliding window, ACKs, Reno AIMD, RFC 2018 SACK, RFC 1071 checksum) over UDP with L7 framing, packet dissection, and Linux tc netem impairment simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
